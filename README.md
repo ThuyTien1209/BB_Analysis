@@ -21,8 +21,27 @@ Key analyses include:
 ## Tools
 Python (Pandas, NumPy), Excel, Power BI, SQL, PowerPoint
 
+## Main findings
+## Main Findings
+
+- Store generated **~6.2B VND revenue from 20,127 units**, with an average **conversion rate of 63.1%**.
+- **Weekend drives more revenue**, with **Sat–Sun averaging ~50–55M VND/day** while weekly revenue fluctuates.
+- **Customer basket remains stable:** **UPT ~1.83 items** and **APT ~561K VND** per transaction.
+- **Revenue highly concentrated by category:** **“Tiệc” contributes ~55% (~4B VND)**, far exceeding other categories.
+- **Peak shopping hours occur in the evening (19:00–21:00)**.
+- **Top SKUs dominate sales:** e.g., **BBQ1671S** and **Q2183S**.
+
 ## Outcome
 Developed 2 retail performance dashboards to generate insights to support data-driven decisions in product strategy, pricing, and sales performance
 
 - **Sales Dashboard:** utilized Pivot in Excel to visualise sales performance
 - **Product Dashboard:** using PowerBI for further analysing on product performance and customer type contribution.
+
+<table>
+<tr>
+<td><img src="<img width="1869" height="933" alt="Excel_Daily_Sailes" src="https://github.com/user-attachments/assets/315e1c36-b77b-4659-8824-adee9b590575" />
+" width="100%"></td>
+<td><img src="[PowerBI_Transaction_Data.pdf](https://github.com/user-attachments/files/25924417/PowerBI_Transaction_Data.pdf)
+" width="100%"></td>
+</tr>
+</table>
