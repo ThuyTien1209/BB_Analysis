@@ -41,12 +41,14 @@ Developed 2 retail performance dashboards to generate insights to support data-d
 <table>
 <tr>
 
-<td>
-<img src="https://github.com/user-attachments/assets/4133b2c2-1d49-41b1-838c-a2a2eb1cdf1b" width="100%">
+<td align="center">
+<img src="https://github.com/user-attachments/assets/4133b2c2-1d49-41b1-838c-a2a2eb1cdf1b" width="500"><br>
+<b>Sales Performance Dashboard (Excel)</b>
 </td>
 
-<td>
-<img src="https://github.com/user-attachments/assets/c26c7627-b297-48e1-a5a8-6434b9d44ab9" width="100%">
+<td align="center">
+<img src="https://github.com/user-attachments/assets/c26c7627-b297-48e1-a5a8-6434b9d44ab9" width="500"><br>
+<b>Product & Order Dashboard (Power BI)</b>
 </td>
 
 </tr>
