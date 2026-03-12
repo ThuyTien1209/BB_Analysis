@@ -5,9 +5,9 @@ This project analyzes the sales performance of a women's fashion retail store us
 The goal is to explore sales trends, product performance, and customer purchasing behavior to generate actionable insights for retail decision-making.
 
 ## Dataset
-The analysis uses two datasets:
+Aggregated data from multiple sources into two datasets for analysis:
 
-- **Daily Sales:** aggregated store metrics such as revenue, number of bills, units sold, traffic, and conversion rate  
+- **Daily Sales:** aggregated store metrics such as revenue, number of bills, units sold, traffic, and calculated conversion rate, APT, UPT
 - **Transaction Data:** transaction-level records including product category, SKU, price, discount, and customer type
 
 ## Analysis
