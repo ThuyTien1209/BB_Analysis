@@ -37,16 +37,17 @@ Developed 2 retail performance dashboards to generate insights to support data-d
 - **Sales Dashboard:** utilized Pivot in Excel to visualise sales performance
 - **Product Dashboard:** using PowerBI for further analysing on product performance and customer type contribution.
 
+
 <table>
 <tr>
-<td>
-<img src=<img width="1869" height="933" alt="Excel_Daily_Sailes" src="https://github.com/user-attachments/assets/4133b2c2-1d49-41b1-838c-a2a2eb1cdf1b" /> width="100%">
-</td>
-
 
 <td>
-<img src=![PowerBI_Transaction_Data](https://github.com/user-attachments/assets/c26c7627-b297-48e1-a5a8-6434b9d44ab9)
- width="100%">
+<img src="https://github.com/user-attachments/assets/4133b2c2-1d49-41b1-838c-a2a2eb1cdf1b" width="100%">
 </td>
+
+<td>
+<img src="https://github.com/user-attachments/assets/c26c7627-b297-48e1-a5a8-6434b9d44ab9" width="100%">
+</td>
+
 </tr>
 </table>
