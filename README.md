@@ -21,8 +21,15 @@ Key analyses include:
 ## Tools
 Python (Pandas, NumPy), Excel, Power BI, SQL, PowerPoint
 
+## SQL Queries
+SQL queries are used throughout this project to support analysis and visualization.
+1. Sales performance: Tracks revenue, units sold, APT, and UPT across 5 months of operation.
+2. Daily target tracking: Compares daily revenue against targets to count how many days met (and missed) the target, both overall and within each month.
+3. Top 10 Best/Worst Sellers: Lists the 10 SKUs with the highest and lowest revenue over 5 months.
+4. Product breakdown: Measures revenue and units sold by Product Type, Product Category, and Merchandise Type.
+5. Customer type breakdown: Measures revenue contribution by customer type.
+
 ## Main findings
-## Main Findings
 
 - Store generated **~6.2B VND revenue from 20,127 units**, with an average **conversion rate of 63.1%**.
 - **Weekend drives more revenue**, with **Sat–Sun averaging ~50–55M VND/day** while weekly revenue fluctuates.
